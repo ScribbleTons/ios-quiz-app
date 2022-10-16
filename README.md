@@ -7,8 +7,9 @@ This is a quiz app with SwiftUI although tutorial was on UIKit
 <div style="display:flex; gap:1rem; justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/40304425/196031374-b13fa962-e8ef-4c82-9606-8feb533afe17.png" width="150" />
 <img src="https://user-images.githubusercontent.com/40304425/196031376-2f01e32a-3397-47a6-8941-dbcb8b29bcbb.png" width="150" />
-<img src="https://user-images.githubusercontent.com/40304425/196031377-73dbbe1f-e800-4d62-87ab-28f86053cced.png" width="150" />
+<img src="https://user-images.githubusercontent.com/40304425/196031830-c4ee4cb9-52d6-4d00-8117-b61f8edbde0a.png" width="150" />
 </div>
+
 
 
 Challenges Faced
